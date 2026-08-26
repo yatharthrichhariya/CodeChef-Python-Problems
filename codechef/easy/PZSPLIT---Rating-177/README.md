@@ -62,7 +62,7 @@ Instead, they must order two pizzas, and then eat $3$ slices each.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-26T18:04:14.896Z  
+**Submitted:** 2026-08-26T18:04:33.544Z  
 
 ```py
 N=int(input())
