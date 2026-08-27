@@ -76,7 +76,7 @@ This year's event was not more successful than the previous year, as the number 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-27T18:05:17.150Z  
+**Submitted:** 2026-08-27T18:06:10.562Z  
 
 ```py
 X,Y=map(int,input().split())
