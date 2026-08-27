@@ -95,12 +95,12 @@ By using the time machine, Chef can travel $25$ years into the future, reaching 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-27T17:43:52.066Z  
+**Submitted:** 2026-08-27T17:45:59.818Z  
 
 ```py
 X=int(input())
 A=X+25
-if X>=2050:
+if A>=2050:
     print("Yes")
 else:
     print("No")
