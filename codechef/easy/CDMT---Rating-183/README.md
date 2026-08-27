@@ -76,14 +76,14 @@ This year's event was not more successful than the previous year, as the number 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-27T18:06:10.562Z  
+**Submitted:** 2026-08-27T18:07:14.401Z  
 
 ```py
 X,Y=map(int,input().split())
-if X>Y:
-    print("No")
+if X<Y:
+    print('Yes')
 else:
-    print("Yes")
+    print("No")
 ```
 
 ---
