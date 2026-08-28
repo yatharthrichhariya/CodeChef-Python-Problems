@@ -62,7 +62,7 @@ Since $A$ is not equal to $B$, print `No`.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-28T17:22:27.269Z  
+**Submitted:** 2026-08-28T17:23:22.941Z  
 
 ```py
 A,B=map(int,input().split())
@@ -70,7 +70,6 @@ if A==B:
     print("Yes")
 else:
     print("No")
-
 ```
 
 ---
