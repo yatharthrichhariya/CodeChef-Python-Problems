@@ -80,7 +80,7 @@ Today is day $49$. The next deep cleaning will be on day $50$, so the answer is 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-27T18:15:04.698Z  
+**Submitted:** 2026-08-27T18:14:30.702Z  
 
 ```py
 N = int(input())
