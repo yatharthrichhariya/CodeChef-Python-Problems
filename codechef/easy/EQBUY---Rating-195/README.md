@@ -61,11 +61,11 @@ It is impossible for Chef to buy an equal amount of sacks of flour and sugar.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-29T07:38:12.582Z  
+**Submitted:** 2026-08-29T07:41:02.769Z  
 
 ```py
 N=int(input())
-if N==3:
+if N%3==0:
     print("Yes")
 else:
     print("No")
