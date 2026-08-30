@@ -61,7 +61,7 @@ Chef can buy a television for all $10$ children to watch. This is cheaper than b
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-30T16:54:35.248Z  
+**Submitted:** 2026-08-30T16:54:48.511Z  
 
 ```py
 N=int(input())
