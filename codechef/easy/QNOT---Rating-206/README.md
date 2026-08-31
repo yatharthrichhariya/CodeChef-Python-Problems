@@ -71,7 +71,7 @@ Since TanMinati was not defeated, the participant does not qualify to the next r
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-31T18:33:07.143Z  
+**Submitted:** 2026-08-31T18:37:10.000Z  
 
 ```py
 N,X,Y=map(int,input().split())
