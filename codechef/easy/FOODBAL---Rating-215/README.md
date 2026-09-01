@@ -86,13 +86,13 @@ Chef will choose the first dish, since it has a smaller difference.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-01T18:01:59.813Z  
+**Submitted:** 2026-09-01T18:02:40.264Z  
 
 ```py
 F1,P1,F2,P2=map(int,input().split())
-if F1-P1 > F2-P2:
+if abs(F1-P1) > abs(F2-P2):
     print("First")
-elif F1-P1 < F2-P2:
+elif abs(F1-P1) < abs(F2-P2):
     print("Second")
 else:
     print('Both')
