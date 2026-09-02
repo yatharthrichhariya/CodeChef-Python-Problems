@@ -55,7 +55,7 @@ The input is 15. So the output is also 15.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-08-29T12:42:20.976Z  
+**Submitted:** 2026-09-02T11:35:11.024Z  
 
 ```py
 N=int(input())
