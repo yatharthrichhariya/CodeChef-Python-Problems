@@ -61,7 +61,7 @@ BOOM
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-02T11:48:00.563Z  
+**Submitted:** 2026-09-02T11:48:41.326Z  
 
 ```py
 X=int(input())
