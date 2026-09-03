@@ -91,11 +91,11 @@ $2\times 698 = 1396$ is greater than $1099$, so Chef will prefer the metal frame
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-03T10:13:53.643Z  
+**Submitted:** 2026-09-03T10:17:10.029Z  
 
 ```py
 X,Y=map(int,input().split())
-if X*2==Y:
+if X*2>=Y:
     print("METAL")
 else:
     print("PLASTIC")
