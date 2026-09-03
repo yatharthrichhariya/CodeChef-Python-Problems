@@ -73,11 +73,11 @@ YES
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-03T10:08:54.962Z  
+**Submitted:** 2026-09-03T10:09:18.598Z  
 
 ```py
 X=int(input())
-if X>=8:
+if X<=8:
     print("Yes")
 else:
     print("No")
