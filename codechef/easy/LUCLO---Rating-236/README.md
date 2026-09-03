@@ -79,14 +79,15 @@ So, the total number of leaves is $4 + 3\cdot 9 = 4 + 27 = 31$.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-03T15:01:01.618Z  
+**Submitted:** 2026-09-03T15:02:42.203Z  
 
 ```py
 N=int(input())
+A=N-1
 if N == 1:
     print("4")
 else:
-    print((N-1)*4)
+    print(4+3*A)
 
 ```
 
