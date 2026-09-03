@@ -1,5 +1,5 @@
 N=int(input())
-if N == 4:
-    print("1")
+if N == 1:
+    print("4")
 else:
     print((N-1)*4)
