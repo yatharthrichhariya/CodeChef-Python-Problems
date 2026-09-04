@@ -1,2 +1,5 @@
 X = int(input())
-print((25 - X + 3) // 4)
+if (25-X)%4==0:
+    print(25-X)//4
+else:
+    print(((25-X)//4)+1)
