@@ -63,11 +63,14 @@ Four more years, each with $4$ wins, will give him another $4\times 4 = 16$ wins
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-03T10:37:29.210Z  
+**Submitted:** 2026-09-04T11:48:07.368Z  
 
 ```py
 X = int(input())
-print((25 - X + 3) // 4)
+if (25-X)%4==0:
+    print(25-X)//4
+else:
+    print(((25-X)//4)+1)
 ```
 
 ---
