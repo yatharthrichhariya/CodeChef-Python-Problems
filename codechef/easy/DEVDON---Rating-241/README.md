@@ -59,12 +59,11 @@ Chef ate six donuts, each containing $237$ calories. The total number of calorie
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-07T18:09:46.694Z  
+**Submitted:** 2026-09-07T18:09:54.088Z  
 
 ```py
 X,Y=map(int,input().split())
 print(X*Y)
-
 ```
 
 ---
