@@ -62,12 +62,15 @@ Chef's party already has a majority.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-07T18:20:00.590Z  
+**Submitted:** 2026-09-07T18:22:01.337Z  
 
 ```py
 N,K=map(int,input().split())
 A=(N//2)+1
-print(max(0,A-K))
+if A-K<0:
+    print("0")
+else:
+    print(A-K)
 ```
 
 ---
