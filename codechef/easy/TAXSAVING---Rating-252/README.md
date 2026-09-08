@@ -56,14 +56,13 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-08T15:04:00.855Z  
+**Submitted:** 2026-09-08T15:04:09.826Z  
 
 ```py
 T=int(input())
 for i in range(T):
     X,Y=map(int,input().split())
     print(X-Y)
-
 ```
 
 ---
