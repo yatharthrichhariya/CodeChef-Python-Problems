@@ -78,11 +78,11 @@ The convincing power of prosecution is same as that of defense. Thus, the accuse
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-11T08:50:34.014Z  
+**Submitted:** 2026-09-11T08:50:46.334Z  
 
 ```py
 X,Y=map(int,input().split())
-if X > Y:
+if X >= Y:
     print("Yes")
 else:
     print("No")
