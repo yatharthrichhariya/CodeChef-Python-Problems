@@ -1,0 +1,5 @@
+A1,A2,B1,B2,C1,C2=map(int,input().split())
+A=max(A1,A2)
+B=max(B1,B2)
+C=max(C1,C2)
+print(A+B+C)
