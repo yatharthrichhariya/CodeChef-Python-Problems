@@ -78,7 +78,7 @@ Since Chef performed $24$ yoga poses and each Surya Namaskar consists of $12$ po
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-11T08:46:55.315Z  
+**Submitted:** 2026-09-15T18:13:56.892Z  
 
 ```py
 N=int(input())
