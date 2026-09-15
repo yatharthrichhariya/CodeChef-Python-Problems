@@ -79,7 +79,7 @@ Since the response code is not $404$, website returns `FOUND`.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-12T14:09:30.650Z  
+**Submitted:** 2026-09-15T18:14:34.777Z  
 
 ```py
 X=int(input())
