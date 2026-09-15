@@ -78,7 +78,7 @@ The convincing power of prosecution is same as that of defense. Thus, the accuse
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-11T08:50:46.334Z  
+**Submitted:** 2026-09-15T18:14:09.623Z  
 
 ```py
 X,Y=map(int,input().split())
