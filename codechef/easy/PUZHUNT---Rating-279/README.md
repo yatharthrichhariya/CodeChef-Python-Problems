@@ -82,11 +82,11 @@ So, Chef's team can participate in the event.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-19T18:06:46.220Z  
+**Submitted:** 2026-09-19T18:08:30.210Z  
 
 ```py
 N=int(input())
-if N>=6 or N>=8:
+if N>=6 and N>=8:
     print("Yes")
 else:
     print("No")
