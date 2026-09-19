@@ -61,11 +61,11 @@ Shreyan can go to Jadavpur University on March $31$, but not on March $17$ when 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-19T18:11:11.599Z  
+**Submitted:** 2026-09-19T18:11:36.818Z  
 
 ```py
 X=int(input())
-if X<=17:
+if X==17:
     print("YAY")
 else:
     print("NO")
