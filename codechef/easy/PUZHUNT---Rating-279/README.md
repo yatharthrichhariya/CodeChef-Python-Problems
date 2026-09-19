@@ -82,7 +82,7 @@ So, Chef's team can participate in the event.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-19T18:05:34.448Z  
+**Submitted:** 2026-09-19T18:07:12.132Z  
 
 ```py
 N=int(input())
