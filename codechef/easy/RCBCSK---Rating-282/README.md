@@ -78,11 +78,11 @@ RCB won by $218 - 200 = 18$ runs, which is equal to $18$. Thus, RCB qualified.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-21T11:40:19.020Z  
+**Submitted:** 2026-09-21T11:40:52.682Z  
 
 ```py
 X,Y=map(int,input().split())
-if (X-Y)>18:
+if (X-Y)>=18:
     print("RCB")
 else:
     print("CSK")
