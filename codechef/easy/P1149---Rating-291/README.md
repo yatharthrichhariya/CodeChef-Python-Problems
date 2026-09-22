@@ -68,14 +68,11 @@ Since $|X-Y| \leq K$, the answer is considered correct.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-22T09:48:14.805Z  
+**Submitted:** 2026-09-22T09:30:58.055Z  
 
 ```py
 X,Y,K=map(int,input().split())
-if abs(X-Y)<=K:
-    print("Yes")
-else:
-    print("No")
+if X-Y<=K
 ```
 
 ---
