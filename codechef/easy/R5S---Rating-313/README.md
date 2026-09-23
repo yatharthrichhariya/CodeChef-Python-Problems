@@ -64,7 +64,7 @@ Chef's current rating is $1999$, and his rating decreases by $10$. So, his new r
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-23T10:13:09.881Z  
+**Submitted:** 2026-09-23T10:13:41.773Z  
 
 ```py
 X,Y=map(int,input().split())
