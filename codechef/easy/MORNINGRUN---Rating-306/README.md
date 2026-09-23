@@ -60,7 +60,7 @@ The perimeter of the ground is $(300 + 150 + 300 + 150) = 900m$ which is not suf
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-23T09:48:39.562Z  
+**Submitted:** 2026-09-23T09:58:16.593Z  
 
 ```py
 X,Y=map(int,input().split())
