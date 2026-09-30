@@ -61,16 +61,15 @@ Chef can let customers $1$ and $2$ buy $2$ cakes, and customers $3$ and $4$ buy 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-09-30T11:39:55.479Z  
+**Submitted:** 2026-09-30T11:41:41.779Z  
 
 ```py
 N,M=map(int,input().split())
-A=N%M
-B=N//M
+B=M//N
 if (B>=2):
     print(N)
 else:
-    print(A)
+    print(M%N)
 ```
 
 ---
