@@ -1,7 +1,6 @@
 N,M=map(int,input().split())
-A=N%M
-B=N//M
+B=M//N
 if (B>=2):
     print(N)
 else:
-    print(A)
+    print(M%N)
