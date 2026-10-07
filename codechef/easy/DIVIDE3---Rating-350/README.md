@@ -64,14 +64,15 @@ You can give friend $1$ $2$ toffees and friends $2$ and $3$, $3$ toffees each. T
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-07T10:42:34.737Z  
+**Submitted:** 2026-10-07T10:43:48.484Z  
 
 ```py
 N=int(input())
+A=N%3
 if N%3==0:
     print("0")
 else:
-    print(abs(N%3)-3)
+    print(3-(A))
 ```
 
 ---
