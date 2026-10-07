@@ -1,5 +1,6 @@
 N=int(input())
+A=N%3
 if N%3==0:
     print("0")
 else:
-    print(abs(N%3)-3)
+    print(3-(A))
