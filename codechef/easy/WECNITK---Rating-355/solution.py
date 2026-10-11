@@ -1,5 +1,5 @@
 S=input()
 if S=="WECNITK":
-    print("Welcome to the web Club!")
+    print("Welcome to web Club!")
 else:
     print("Access Denied")
