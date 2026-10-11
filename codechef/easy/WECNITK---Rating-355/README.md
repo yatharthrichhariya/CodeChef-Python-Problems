@@ -64,12 +64,12 @@ The access code entered does not match the expected one, so you are not granted 
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-11T18:03:05.451Z  
+**Submitted:** 2026-10-11T18:01:53.292Z  
 
 ```py
 S=input()
 if S=="WECNITK":
-    print("Welcome to web Club!")
+    print("Welcome to the web Club!")
 else:
     print("Access Denied")
 ```
