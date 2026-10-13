@@ -1,5 +1,5 @@
 X,Y=map(int,input().split())
-if X>=Y**2:
+if X**2>Y:
     print("Yes")
 else:
     print("No")
