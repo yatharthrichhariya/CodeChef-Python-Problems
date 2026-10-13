@@ -1,7 +1,5 @@
-
-X, Y = map(int, input().split())
-
-if X >= 2 * Y:
+X,Y=map(int,input().split())
+if X*X>Y:
     print("Yes")
 else:
     print("No")
