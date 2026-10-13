@@ -55,11 +55,11 @@ Alice has scored $X = 1$ mark whereas Bob has scored $Y = 2$ marks. As Alice has
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-13T10:33:25.694Z  
+**Submitted:** 2026-10-13T10:34:29.678Z  
 
 ```py
 X,Y=map(int,input().split())
-if X**2>Y:
+if X>Y**2:
     print("Yes")
 else:
     print("No")
