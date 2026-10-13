@@ -62,11 +62,11 @@ Dom will convince Tyro for at most $3$ times. However, Tyro has decided to agree
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-13T10:46:28.112Z  
+**Submitted:** 2026-10-13T10:48:06.626Z  
 
 ```py
 A,B=map(int,input().split())
-if A>=B:
+if A<=B:
     print("Tyro")
 else:
     print("Dom")
