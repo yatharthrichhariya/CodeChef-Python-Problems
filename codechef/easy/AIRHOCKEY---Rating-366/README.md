@@ -55,15 +55,14 @@ Output
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-15T18:20:10.812Z  
+**Submitted:** 2026-10-15T18:20:27.959Z  
 
 ```py
 
 t = int(input())
-for _ in range(t):
+for i in range(t):
     A, B = map(int, input().split())
     print(min(7 - A, 7 - B))
-
 ```
 
 ---
